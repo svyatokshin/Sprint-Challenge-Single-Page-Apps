@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: It eliminates the need for a refresh everytime there is something changed on the site. There are also less network calls when clicking things on the site.
 
 ## Project Set Up
 
